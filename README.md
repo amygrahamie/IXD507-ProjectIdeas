@@ -1,6 +1,4 @@
 # IXD507 Project Ideas
-
-# Major Project Ideas x3
 ----------------------------------------------------------------------------
 
 ## Wedding Planning App
