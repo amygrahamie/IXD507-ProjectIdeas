@@ -64,6 +64,51 @@ Another option is I make a commission when a bride books one of the vendors on t
 
 ----------------------------------------------------------------------------
 
+## Pill Assistance App
+ 
+## Overview
+
+There are so many illnesses out there that require countless medication, 3 or more times a day. Some pharmacies give booster packs that last the week but theres no system to remind you to take them at the right time or keep track if your dosage has changed. 
+
+'Pillassistance' would be a great way for a DR to patient relationship. With a pill database that the Dr can input the correct pills and their dosage onto your system and the frequency you take them. This can be updated regularly by your Dr ensuring you are always taking the correct medication. This also reminds you to take your pills and the correct times and has reward notifications once you've checked in that you've taken them. 
+
+My dad has MS and see him trying to organise his countless medications. Certain illnesses also have an effect on the memory so a PillAssistance is like a friend in your pocket to keep you on track with your medication. You can also write notes along the way if you feel bad side effects after taking certain medication. This can be extremely helpful for your DR leading into your next check up appointment. 
+
+This could also work with the likes of the apple watch / alexa. 
+
+## Pros and Cons
+
+**Pro**
+
+* This would be an incredibly helpful solution for people with who take (lots of) medication
+* I have a little knowledge of the first hand problems with people dealing with medication (dad, granny etc)
+* I have friends who are pharmacies / Dr's / take a lot of with medication, so finding people to interview will be easy.
+* Theres a lot of scope for designing for designing for different platforms.
+* There may be a gap in the market for this in the NHS for Dr's keeping uptodate with how their patients are doing on a daily basis.
+
+
+
+
+**Con**
+
+* I’ll need to learn how to build a database to power everything
+* I've no experience myself with medication etc so would have to do a lot of user testing / research on medication
+* People would require training on how to use the app properly. Elderly people may struggle if not used to using any form of technology.
+* Could add as an extra work load for Dr's / Data protection issues.
+
+
+## How might it be built?
+
+
+
+
+
+## Who’s it for?
+
+* 
+
+## What’s the business model?
+
 
 
 ----------------------------------------------------------------------------
