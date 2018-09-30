@@ -70,9 +70,9 @@ Another option is I make a commission when a bride books one of the vendors on t
 
 There are so many illnesses out there that require countless medication, 3 or more times a day. Some pharmacies give booster packs that last the week but theres no system to remind you to take them at the right time or keep track if your dosage has changed. 
 
-'Pillassistance' would be a great way for a DR to patient relationship. With a pill database that the Dr can input the correct pills and their dosage onto your system and the frequency you take them. This can be updated regularly by your Dr ensuring you are always taking the correct medication. This also reminds you to take your pills and the correct times and has reward notifications once you've checked in that you've taken them. 
+'Pillassistance' would be a great way for a DR to keep up to date with their patients. With a pill database that Dr's can input the correct pills and their dosage into your system and the frequency you take them. This can be updated regularly by your Dr ensuring you are always taking the correct medication. This also reminds you to take your pills and the correct times and has reward notifications once you've checked in that you've taken them. As this data is collated you are seamlessly creating a history of your medication which can be passed along easily if you move DR. 
 
-My dad has MS and see him trying to organise his countless medications. Certain illnesses also have an effect on the memory so a PillAssistance is like a friend in your pocket to keep you on track with your medication. You can also write notes along the way if you feel bad side effects after taking certain medication. This can be extremely helpful for your DR leading into your next check up appointment. 
+My dad has MS and I see him trying to organise his countless medications every day, 3 times a day. Most illnesses also have an effect on the memory so a PillAssistance is like a friend in your pocket to keep you on track with your medication. You could also write notes along the way if you feel bad side effects after taking certain medications. This could be extremely helpful for your DR leading upto your next appointment. 
 
 This could also work with the likes of the apple watch / alexa. 
 
@@ -95,6 +95,7 @@ This could also work with the likes of the apple watch / alexa.
 * I've no experience myself with medication etc so would have to do a lot of user testing / research on medication
 * People would require training on how to use the app properly. Elderly people may struggle if not used to using any form of technology.
 * Could add as an extra work load for Dr's / Data protection issues.
+* This could become quite complicated due to the amount of disabilities so you'd have to make sure you have a solid system in place that then could be personalised for more complicated disabilities. 
 
 
 ## How might it be built?
