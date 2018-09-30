@@ -11,7 +11,7 @@ When I got engaged, and I saw various other friends of mine get engaged. Myself 
 
 #Where do I even start?
 
-or what photographers are out there? I did a lot of research based on people I know who got married because I didn't know where to look. That is when I thought wouldn't it be perfect to plan my wedding from start to finish with the help of an app / overall wedding inspiration site. 
+That is when I thought wouldn't it be perfect to plan my wedding from start to finish with the help of an app / overall wedding inspiration site. 
 
 From working in the wedding industry for a year now designing wedding stationery, I would say my knowledge is probably better than some.. but still I was left wondering where to begin when it came to budgeting, picking a reception venue, and planning your guest list. 
 
@@ -24,7 +24,7 @@ Maybe you've got your venue, photographer etc booked elsewhere, you can still en
 **Pro**
 
 * I love & work in weddings so I find this topic super interesting / fun to explore
-* I have a good knowledge of designing for UI and UX after my placement year.
+* I have a good knowledge of designing for UI and UX after my placement year. I could also create a website to promote this as I have sufficient skills in HTML and CSS.
 * I'm also getting married so I see a major gap in the market for this tool to be explored further
 * I have been involved in a lot of peoples weddings so I will find market research a lot easier
 * The wedding industry is vastly growing and becoming more competitive so vendors could find this beneficial in growing their business
@@ -127,43 +127,48 @@ Department for Education (DfE) statistics published last year show there are mor
 
 This isn't down to teachers neglegance but to a lack of funding for more staff. With these figures could it be proved that there is an urgency for a behavioural tracking / learning app to help build a consistency of learning for these kids who may fall behind in class by getting the parents on board with their learning and maintaining a consistency of how a child is disciplined.
 
-This app could help teachers track behavioural changes in their students and help them recognise if a child is showing the signs of a learning disability. All homeworks and tasks will also be logged in the app so parents are aware of the kids workload and grades. This keeps an honest communication open between parent and teacher. 
+This app could help teachers track the behaviour of children who have difficulities in class. All homeworks and tasks will also be logged in the app so parents are aware of the kids workload and grades. This keeps an honest communication open between parent and teacher. Keeps track of positive reinforcement and allows for parents and teachers to be onboard with how to positivitly impact the behaviour of their child across all environments.
 
 
 ## Pros and Cons
 
 **Pro**
 
-* Schools are now working with ipads in their lessons, so the software is already there and available to use.
+* Schools are now working with ipads in their lessons, so the hardware is already there and available to use.
 * This could help identify if a child has a learning disability and keep parents more up to date with their kids learning
-
+* Theres not enough budget currently for providing for a class room assistance for each kid who is struggling in class so this would be help provide a solution to help teachers and parents work together to track behavioural changes in particular kids. 
 
 **Con**
 
 * I don't have any experience working with disabled kids & their needs so would have a lot of research to carry out
 * This may not be the correct solution and could end up being more work for teachers on top of the current workload.
-* I'm sure what my approach would be in terms of design / building the app. 
-* Parent's may not be able to afford to buy an ipad to keep updated with their kids learning
+* Parent's may not be able to afford to buy an ipad to keep updated with their kids learning so this may mean exploring another method of being informed i.e a website
+* For user testing you would have to have ethical approval because you're working with people under the age of under 18. This could be overcome with initial testing with teachers and parents. 
+* GDPR compliance and storing data of children under 18
 
 
 ## How might it be built?
 
+I'm initally thinking an app or elearning software. I would be interested in doing more research in schools and finding out what software they use on their ipads and what they find useful and whether this could be tied in somewhere. 
 
+I would also build a website using HTML / CSS where parents are therefore informed on their kids profile and day to day activity in the classroom.
 
 
 ## Who’s it for?
 
-* Teachers who are providing care for kids with special needs (particularly in mainstream schools)
+* Teachers who are providing care for kids with special needs / behavioural difficulties (particularly in mainstream schools)
 * Parents of kid's with special needs
 
 
 
 ## What’s the business model?
 
-With more market research and sensing the urgency for something like this in schools, there could be potential for government funding as this would help 
+With more market research and getting a sense urgency for something like this in schools, there could be potential for government funding as this would help limit the amount of resources and money trying to provide an abundance of classroom asisstants in schools. 
 
 
 ----------------------------------------------------------------------------
+
+
 
 Essay Idea
 ===========
