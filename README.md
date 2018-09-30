@@ -173,4 +173,4 @@ With more market research and getting a sense urgency for something like this in
 Essay Idea
 ===========
 
-## Enter Text
+## The Paradox of Choice
