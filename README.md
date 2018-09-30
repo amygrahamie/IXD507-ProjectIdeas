@@ -84,9 +84,7 @@ This could also work with the likes of the apple watch / alexa.
 * I have a little knowledge of the first hand problems with people dealing with medication (dad, granny etc)
 * I have friends who are pharmacies / Dr's / take a lot of with medication, so finding people to interview will be easy.
 * Theres a lot of scope for designing for designing for different platforms.
-* There may be a gap in the market for this in the NHS for Dr's keeping uptodate with how their patients are doing on a daily basis.
-
-
+* There may be a gap in the market for this in the NHS for Dr's keeping up to date with how their patients are doing on a daily basis. It may even cut down on their paper work / paper trail therefore helping the environment
 
 
 **Con**
@@ -100,15 +98,23 @@ This could also work with the likes of the apple watch / alexa.
 
 ## How might it be built?
 
-
+An ios app for iphone / ipad. I feel it would best on iOS as its intuitive and versatile over multiple applications. DR's could operate using the ipads and clients use their phones as their systems are tailored for slightly different needs.
+I’ve never built an app before so this would be a HUGE challenge for me. This would also go hand in hand with the apple watch and getting notifications and reminders to your wrist.
 
 
 
 ## Who’s it for?
 
-* 
+* Those who take a lot of medication every day
+* People with poor memory and need reminders (even if its just one pill a day)
+
+This is quite a large target market but I feel like theres a strong niche in the market for something like this.
+
 
 ## What’s the business model?
+
+I'm not confident it's something users would pay to use as they may disagree that their memory isn't great or they can keep track of everything so perhaps it would be a NHS provided app / free to download for all their patients. You would have a secure log in to access all your information.
+
 
 
 
