@@ -24,16 +24,17 @@ Maybe you've got your venue, photographer etc booked elsewhere, you can still en
 **Pro**
 
 * I love & work in weddings so I find this topic super interesting / fun to explore
+* I have a good knowledge of designing for UI and UX after my placement year.
 * I'm also getting married so I see a major gap in the market for this tool to be explored further
 * I have been involved in a lot of peoples weddings so I will find market research a lot easier
-* The wedding industry is vastly growing and becoming more competitive so vendors could find this 
+* The wedding industry is vastly growing and becoming more competitive so vendors could find this beneficial in growing their business
 * Pinterest / instagram are widely used for inspiration. You could connect your other pages to your wedding assistant to help mood board your perfect wedding. 
 
 **Con**
 
 * There is a lot to consider with wedding planning and the vast amount of options available so may be complicated to prototype but I feel with the right target market / research it is possible
 * I would need to learn a lot about marketing and collating content. Do people prefer to use webapps or their phones. I need to ensure I'm catering for both considering all possible platforms. Do I make it possible to plan the wedding on just the app or on a webapp also? Or just use the web as a marketing tool for the app. 
-* Wedding planning isnt a simple process and can change from person to person. Can the app just be used as a source of inspiration?
+* Wedding planning isnt a simple process and can change from person to person. Can the app just be used as a source of inspiration / different use cases?
 
 
 ## How might it be built?
@@ -116,6 +117,50 @@ This is quite a large target market but I feel like theres a strong niche in the
 I'm not confident it's something users would pay to use as they may disagree that their memory isn't great or they can keep track of everything so perhaps it would be a NHS provided app / free to download for all their patients. You would have a secure log in to access all your information.
 
 
+----------------------------------------------------------------------------
+
+## Behaviour Tracking in Schools
+ 
+## Overview
+
+Department for Education (DfE) statistics published last year show there are more than 1.3 million children in England - 15% of pupils - identified as having special educational needs. Of these pupils, 1.1 million are in mainstream schools rather than special schools. These children are being left behind and aren't receiving the appropriate amount of support and guidance. 
+
+This isn't down to teachers neglegance but to a lack of funding for more staff. With these figures could it be proved that there is an urgency for a behavioural tracking / learning app to help build a consistency of learning for these kids who may fall behind in class by getting the parents on board with their learning and maintaining a consistency of how a child is disciplined.
+
+This app could help teachers track behavioural changes in their students and help them recognise if a child is showing the signs of a learning disability. All homeworks and tasks will also be logged in the app so parents are aware of the kids workload and grades. This keeps an honest communication open between parent and teacher. 
+
+
+## Pros and Cons
+
+**Pro**
+
+* Schools are now working with ipads in their lessons, so the software is already there and available to use.
+* This could help identify if a child has a learning disability and keep parents more up to date with their kids learning
+
+
+**Con**
+
+* I don't have any experience working with disabled kids & their needs so would have a lot of research to carry out
+* This may not be the correct solution and could end up being more work for teachers on top of the current workload.
+* I'm sure what my approach would be in terms of design / building the app. 
+* Parent's may not be able to afford to buy an ipad to keep updated with their kids learning
+
+
+## How might it be built?
+
+
+
+
+## Who’s it for?
+
+* Teachers who are providing care for kids with special needs (particularly in mainstream schools)
+* Parents of kid's with special needs
+
+
+
+## What’s the business model?
+
+With more market research and sensing the urgency for something like this in schools, there could be potential for government funding as this would help 
 
 
 ----------------------------------------------------------------------------
