@@ -9,7 +9,7 @@ Have you ever thought how much work goes into planning a wedding?
 
 When I got engaged, and I saw various other friends of mine get engaged. Myself and a lot of them asked the question,
 
-#Where do I even start?
+# Where do I even start?
 
 That is when I thought wouldn't it be perfect to plan my wedding from start to finish with the help of an app / overall wedding inspiration site. 
 
